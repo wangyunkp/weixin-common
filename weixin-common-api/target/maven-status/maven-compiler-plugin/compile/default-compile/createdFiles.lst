@@ -1,0 +1,7 @@
+com\cloud\weixin\util\Result.class
+com\cloud\weixin\api\WxOAuth2Service.class
+com\cloud\weixin\bean\oauth2\WxBaseResult.class
+com\cloud\weixin\bean\oauth2\WxOAuth2AccessToken.class
+com\cloud\weixin\bean\oauth2\WxOAuth2UserInfo.class
+com\cloud\weixin\util\WxGsonBuilder.class
+com\cloud\weixin\api\WxAccessTokenService.class
