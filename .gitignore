@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+.idea/*
+weixin-common.iml
+/weixin-common-api/weixin-common-api.iml
+/weixin-common-core/weixin-common-core.iml
+
+/weixin-common-api/target
+/weixin-common-core/target
+
